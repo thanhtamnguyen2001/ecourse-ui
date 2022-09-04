@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecourse/static/css/main.ba49ec77.chunk.css",
-    "main.js": "/ecourse/static/js/main.d8e26d86.chunk.js",
-    "main.js.map": "/ecourse/static/js/main.d8e26d86.chunk.js.map",
-    "runtime~main.js": "/ecourse/static/js/runtime~main.4295fb29.js",
-    "runtime~main.js.map": "/ecourse/static/js/runtime~main.4295fb29.js.map",
-    "static/css/2.63f31f8d.chunk.css": "/ecourse/static/css/2.63f31f8d.chunk.css",
-    "static/js/2.768bee3b.chunk.js": "/ecourse/static/js/2.768bee3b.chunk.js",
-    "static/js/2.768bee3b.chunk.js.map": "/ecourse/static/js/2.768bee3b.chunk.js.map",
-    "index.html": "/ecourse/index.html",
-    "precache-manifest.8cc7fe2521c0151e9dfbb5dcec0b1e3c.js": "/ecourse/precache-manifest.8cc7fe2521c0151e9dfbb5dcec0b1e3c.js",
-    "service-worker.js": "/ecourse/service-worker.js",
-    "static/css/2.63f31f8d.chunk.css.map": "/ecourse/static/css/2.63f31f8d.chunk.css.map",
-    "static/css/main.ba49ec77.chunk.css.map": "/ecourse/static/css/main.ba49ec77.chunk.css.map"
+    "main.css": "/ecourse-ui/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/ecourse-ui/static/js/main.59f297c8.chunk.js",
+    "main.js.map": "/ecourse-ui/static/js/main.59f297c8.chunk.js.map",
+    "runtime~main.js": "/ecourse-ui/static/js/runtime~main.5495d579.js",
+    "runtime~main.js.map": "/ecourse-ui/static/js/runtime~main.5495d579.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/ecourse-ui/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.8ba9e793.chunk.js": "/ecourse-ui/static/js/2.8ba9e793.chunk.js",
+    "static/js/2.8ba9e793.chunk.js.map": "/ecourse-ui/static/js/2.8ba9e793.chunk.js.map",
+    "index.html": "/ecourse-ui/index.html",
+    "precache-manifest.776fb67f6fc40fa9cb65a90c82d4c260.js": "/ecourse-ui/precache-manifest.776fb67f6fc40fa9cb65a90c82d4c260.js",
+    "service-worker.js": "/ecourse-ui/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/ecourse-ui/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.ba49ec77.chunk.css.map": "/ecourse-ui/static/css/main.ba49ec77.chunk.css.map"
   }
 }
